@@ -19,8 +19,8 @@ This project demonstrates how to implement JWT (JSON Web Token) authentication u
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/hilmiugurpolat/jwt-auth-spring-boot.git
-    cd jwt-auth-spring-boot
+      git clone https://github.com/hilmiugurpolat/JWT-Authentication-with-Spring-Boot.git
+    cd JWT-Authentication-with-Spring-Boot
     ```
 
 2. **Build the project:**
